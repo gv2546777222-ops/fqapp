@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="assets/images/app_logo.webp" width="100" alt="什锦铺">
+  <img src="assets/images/app_logo.webp" width="100" alt="考拉畅听">
 </p>
 
-<h1 align="center">什锦铺 · 看小说、短剧、漫画的手机 App</h1>
+<h1 align="center">考拉畅听 · 看小说、短剧、漫画的手机 App</h1>
+
+> 本仓库 fork 自 [ch6vip/fqapp](https://github.com/ch6vip/fqapp)，基于 GPL-3.0 协议；本次改动仅为换皮（应用名、安装 ID、图标待换），功能与上游一致，原作者署名保留。
 
 <p align="center">不用注册 · 不用付费 · 打开就能看</p>
 
